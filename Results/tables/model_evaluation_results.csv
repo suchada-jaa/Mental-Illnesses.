@@ -1,0 +1,6 @@
+﻿Model,R-squared (R2),RMSE,MAE
+Linear Regression,0.7521,2.451,1.98
+Polynomial Regression,0.8104,2.12,1.65
+Decision Tree,0.854,1.89,1.42
+Random Forest,0.892,1.54,1.15
+XGBoost,0.9145,1.32,0.98
